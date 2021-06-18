@@ -53,7 +53,7 @@ background-attachment:fixed;
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#"><span class="fa fa-bell-o"></span>Learn Code with Durgesh <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#"><span class="fa fa-bell-o"></span>Learn Code with TechBlog <span class="sr-only">(current)</span></a>
       </li>
      
       <li class="nav-item dropdown active">
