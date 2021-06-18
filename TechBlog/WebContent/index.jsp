@@ -55,7 +55,7 @@
   
   <div class="card-body">
     <h5 class="card-title">Python Programming</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming.</p>
     <a href="login.jsp" class="btn primary-bg text-white">Read more...</a>
   </div>
 </div>
@@ -67,7 +67,7 @@
   
   <div class="card-body">
     <h5 class="card-title">SQL</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">SQL stands for Structured Query Language. It is used for storing and managing data in relational database management system (RDMS). It is a standard language for Relational Database System. It enables a user to create, read, update and delete relational databases and tables.</p>
     <a href="login.jsp" class="btn primary-bg text-white">Read more...</a>
   </div>
 </div>
@@ -82,7 +82,7 @@
   
   <div class="card-body">
     <h5 class="card-title">C Programming</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">The main features of C language include low-level access to memory, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development.</p>
     <a href="login.jsp" class="btn primary-bg text-white">Read more...</a>
   </div>
 </div>
@@ -95,7 +95,7 @@
   
   <div class="card-body">
     <h5 class="card-title">JavaScript</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node.</p>
     <a href="login.jsp" class="btn primary-bg text-white">Read more...</a>
   </div>
 </div>
@@ -107,7 +107,7 @@
   
   <div class="card-body">
     <h5 class="card-title">Data Structures and Algorithms</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage.</p>
     <a href="login.jsp" class="btn primary-bg text-white">Read more...</a>
   </div>
 </div>
